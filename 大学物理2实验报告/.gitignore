@@ -1,0 +1,9 @@
+# 操作系统与 Office 临时文件
+Thumbs.db
+.DS_Store
+~$*
+*.tmp
+# Python 缓存
+__pycache__/
+*.py[cod]
+.venv/

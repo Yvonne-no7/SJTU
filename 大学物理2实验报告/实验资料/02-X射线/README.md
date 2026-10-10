@@ -1,0 +1,29 @@
+# x射线
+
+多版本报告（含批改版）、晶体衍射数据、曲线和 Origin 工程。
+
+保留原有报告版本及内部目录。文件名中的分数为原资料标注，未重新核实。以下按文件名提供导航，不代表已审核报告内容。
+
+[返回总 README](../../README.md)
+
+## 文件导航
+
+| 文件 | 大小（MiB） |
+| --- | ---: |
+| [X射线实验报告1.pdf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1.pdf) | 2.6 |
+| [x射线实验报告2.pdf](x%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2.pdf) | 13.27 |
+| [X射线实验报告3.pdf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A3.pdf) | 4.24 |
+| [x射线实验报告4.pdf](x%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A4.pdf) | 5.95 |
+| [x射线实验报告5（含批改）.pdf](x%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A5%EF%BC%88%E5%90%AB%E6%89%B9%E6%94%B9%EF%BC%89.pdf) | 6.7 |
+| [X射线实验报告6/图（打印出来即可）.doc](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/%E5%9B%BE%EF%BC%88%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E5%8D%B3%E5%8F%AF%EF%BC%89.doc) | 0.09 |
+| [X射线实验报告6/图（打印出来即可）.pdf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/%E5%9B%BE%EF%BC%88%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E5%8D%B3%E5%8F%AF%EF%BC%89.pdf) | 0.71 |
+| [X射线实验报告6/X射线晶体衍射.xlsx](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/X%E5%B0%84%E7%BA%BF%E6%99%B6%E4%BD%93%E8%A1%8D%E5%B0%84.xlsx) | 0.03 |
+| [X射线实验报告6/作的图/连续谱最短波长与电压倒数的关系.emf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/%E4%BD%9C%E7%9A%84%E5%9B%BE/%E8%BF%9E%E7%BB%AD%E8%B0%B1%E6%9C%80%E7%9F%AD%E6%B3%A2%E9%95%BF%E4%B8%8E%E7%94%B5%E5%8E%8B%E5%80%92%E6%95%B0%E7%9A%84%E5%85%B3%E7%B3%BB.emf) | 0.12 |
+| [X射线实验报告6/作的图/特征峰强度随电流大小的变化.emf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/%E4%BD%9C%E7%9A%84%E5%9B%BE/%E7%89%B9%E5%BE%81%E5%B3%B0%E5%BC%BA%E5%BA%A6%E9%9A%8F%E7%94%B5%E6%B5%81%E5%A4%A7%E5%B0%8F%E7%9A%84%E5%8F%98%E5%8C%96.emf) | 0.17 |
+| [X射线实验报告6/作的图/I=1mA时的衍射谱随电压变化的关系.emf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/%E4%BD%9C%E7%9A%84%E5%9B%BE/I%3D1mA%E6%97%B6%E7%9A%84%E8%A1%8D%E5%B0%84%E8%B0%B1%E9%9A%8F%E7%94%B5%E5%8E%8B%E5%8F%98%E5%8C%96%E7%9A%84%E5%85%B3%E7%B3%BB.emf) | 0.07 |
+| [X射线实验报告6/作的图/U=30kV,I=1mA时的衍射曲线.emf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/%E4%BD%9C%E7%9A%84%E5%9B%BE/U%3D30kV%2CI%3D1mA%E6%97%B6%E7%9A%84%E8%A1%8D%E5%B0%84%E6%9B%B2%E7%BA%BF.emf) | 0.04 |
+| [X射线实验报告6/作的图/U=30kV时衍射谱随电流变化的关系.emf](X%E5%B0%84%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A6/%E4%BD%9C%E7%9A%84%E5%9B%BE/U%3D30kV%E6%97%B6%E8%A1%8D%E5%B0%84%E8%B0%B1%E9%9A%8F%E7%94%B5%E6%B5%81%E5%8F%98%E5%8C%96%E7%9A%84%E5%85%B3%E7%B3%BB.emf) | 0.05 |
+| [编者自搓报告+原始数据+origin/实验数据.xlsx](%E7%BC%96%E8%80%85%E8%87%AA%E6%90%93%E6%8A%A5%E5%91%8A%2B%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%2Borigin/%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE.xlsx) | 0.02 |
+| [编者自搓报告+原始数据+origin/UNTITLED.opju](%E7%BC%96%E8%80%85%E8%87%AA%E6%90%93%E6%8A%A5%E5%91%8A%2B%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%2Borigin/UNTITLED.opju) | 0.63 |
+| [编者自搓报告+原始数据+origin/X射线.docx](%E7%BC%96%E8%80%85%E8%87%AA%E6%90%93%E6%8A%A5%E5%91%8A%2B%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%2Borigin/X%E5%B0%84%E7%BA%BF.docx) | 0.29 |
+| [编者自搓报告+原始数据+origin/X射线.pdf](%E7%BC%96%E8%80%85%E8%87%AA%E6%90%93%E6%8A%A5%E5%91%8A%2B%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%2Borigin/X%E5%B0%84%E7%BA%BF.pdf) | 0.66 |

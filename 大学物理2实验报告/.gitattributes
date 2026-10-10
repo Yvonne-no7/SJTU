@@ -1,0 +1,14 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.pdf binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.opj binary
+*.opju binary
+*.jpg binary
+*.png binary
+*.bmp binary
+*.emf binary
